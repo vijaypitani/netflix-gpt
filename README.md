@@ -1,6 +1,20 @@
 # Netflix GPT
 - Create React App
 - Configured TailwindCSS
+- Header
+- Login Form
+- Sign up Form
+- Form Validation
+- useRef Hook
+- Firebase setup
+- Deploying our app to production
+- Create signUp User Account
+- Implement sign In user Api
+- Create Redux Store with userSlice
+- Implemented Sign out
+- Update Profile
+
+
 
 
 # Features
@@ -20,8 +34,15 @@
   - Movie Suggestions
 
 
+# Steps for Deployment:
+- 0.Install firbase CLI - 'npm install -g firebase-tools'
+- 1.Firebase Login - 'firebase login'
+- 2.Initilize Firebase - 'firebase init', then select Hosting
+- 3.Deploy command - 'firebase deploy'
 
-  echo "# netflix-gpt" >> README.md
+
+
+
 git init
 git add README.md
 git commit -m "first commit"
