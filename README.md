@@ -27,6 +27,12 @@
 - Update Store with tailer video data
 - Embedded the youtube video and make it autoplay and mute
 - Tailwind classes to make main container look awesome
+- Build Secondary Component
+- Build Moive List
+- Build Moive Card
+- TMDB Image CDN URL
+- Made the Browsre page amazing with Tailwind css
+- usePopularMovies, useTopRatedMovies, useUpcomingMovies.js custom hook
 
 
 

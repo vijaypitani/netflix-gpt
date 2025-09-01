@@ -9,3 +9,5 @@ export const USER_AVATAR = "https://avatars.githubusercontent.com/u/82361924?v=4
     Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiOWIzNDkyYmQ0MGVhNzYyZWQ1ZjQ5YzgyNjBkYmQxNiIsIm5iZiI6MTc1NjIzMzczMS44MjMsInN1YiI6IjY4YWUwMDAzMGIzZjJhMmNkNjRlYjhkZSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.RIgrtxGCq6Tezw_itRnhCHHauGuMLmLDWFa3zAHpGDo'
   }
 };
+
+export const IMG_CDN_URL = "https://image.tmdb.org/t/p/w500/"
